@@ -1,7 +1,8 @@
 # Huddle room
 
 This repository backs a [Huddle](https://github.com/kishorebhatia/huddle-ai-collab) room. Huddle writes the room's
-brief, decisions, research and prototypes here each time someone presses **Publish to GitHub**.
+brief, decisions, research and prototypes here automatically as the room works (and when someone presses **Publish to GitHub**).
+Public rooms live in the Huddle-public-repos organization; anything in them is public.
 
 | Path | What it holds |
 |---|---|
